@@ -237,7 +237,7 @@ export const PROJECTS = [
     description:
       'Embark on an interstellar journey with my "Space Themed Website", a mesmerizing space-themed website that invites you to explore the cosmic wonders beyond our world.',
     image: "/projects/project-3.png",
-    link: "https://example.com",
+    link: "https://space-portfolio-nine-jade.vercel.app/",
   },
 ] as const;
 
@@ -281,15 +281,11 @@ export const FOOTER_DATA = [
   {
     title: "About",
     data: [
-      {
-        name: "Become Sponsor",
-        icon: null,
-        link: "https://youtube.com",
-      },
+      
       {
         name: "Learning about me",
         icon: null,
-        link: "https://example.com",
+        link: "https://space-portfolio-nine-jade.vercel.app/",
       },
       {
         name: "Contact Me",
@@ -316,5 +312,5 @@ export const NAV_LINKS = [
 ] as const;
 
 export const LINKS = {
-  sourceCode: "https://github.com/adarshify",
+  sourceCode: "https://github.com/adarshify/Space-Portfolio",
 };
