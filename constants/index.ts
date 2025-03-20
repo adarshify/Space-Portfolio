@@ -209,7 +209,12 @@ export const FULLSTACK_SKILL = [
 ] as const;
 
 export const OTHER_SKILL = [
-  
+  {
+    skill_name: "Linux",
+    image: "Linux.png",
+    width: 70,
+    height: 70,
+  },
 ] as const;
 
 export const PROJECTS = [
