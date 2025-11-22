@@ -82,7 +82,7 @@ export const SOCIALS = [
   {
     name: "Instagram",
     icon: RxInstagramLogo,
-    link: "https://www.instagram.com/adarsh24__/",
+    link: "https://www.instagram.com/loveseamoonsun/",
   },
   {
     name: "Github",
@@ -228,9 +228,9 @@ export const PROJECTS = [
   {
     title: "Flixer - Movie Recommendation Site",
     description:
-      'A web application which allows users to share movies/tv shows among their connections and maintain their own personal watchlist.',
+      'A E-commerce website where you can shop for kids.',
     image: "/projects/project-2.png",
-    link: "https://example.com",
+    link: "https://zoddle.in/pages/welcomesunshine",
   },
   {
     title: "Space Themed Website",
@@ -238,6 +238,13 @@ export const PROJECTS = [
       'Embark on an interstellar journey with my "Space Themed Website", a mesmerizing space-themed website that invites you to explore the cosmic wonders beyond our world.',
     image: "/projects/project-3.png",
     link: "https://space-portfolio-nine-jade.vercel.app/",
+  },
+  {
+    title: "Keyshade.io",
+    description:
+      'Have done a few open source contribution, Keyshade is now being funded by the github',
+    image: "/projects/project-4.png",
+    link: "https://keyshade.io/",
   },
 ] as const;
 
