@@ -226,7 +226,7 @@ export const PROJECTS = [
     link: "https://hygge-ffjz.onrender.com/",
   },
   {
-    title: "Flixer - Movie Recommendation Site",
+    title: "Zoddle.in",
     description:
       'A E-commerce website where you can shop for kids.',
     image: "/projects/project-2.png",
